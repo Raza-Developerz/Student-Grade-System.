@@ -1,8 +1,8 @@
 # 🎓 Student Grade System - Java
 
-A simple and efficient Java console application to calculate student grades for 7 subjects. It takes total and obtained marks, calculates the percentage, and assigns a grade from A+ to F.
+A simple and efficient Java console application to calculate student grades for7 subjects. It takes total and obtained marks, calculates the percentage, and assigns a grade from A+ to F.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 📖 About
